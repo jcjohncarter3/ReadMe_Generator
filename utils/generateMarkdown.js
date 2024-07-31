@@ -22,9 +22,16 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Questions](#questions)
+- [Features](#features)
+- [How to contribute](#how_to_contribute)
+- [Tests](#tests)
 
 ## Installation
+
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
@@ -53,6 +60,12 @@ The last section of a high-quality README file is the license. This lets other d
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+## Questions
+
+Github username: ${data.github}
+Email: ${data.email}
+
 
 ## Features
 
