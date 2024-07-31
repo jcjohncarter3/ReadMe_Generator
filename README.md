@@ -1,8 +1,10 @@
-# 
+# ReadMe_Generator
 
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
 ## Description
 
-
+It generates ReadMes
 
 ## Table of Contents 
 
@@ -13,7 +15,7 @@
 - [Badges](#badges)
 - [Questions](#questions)
 - [Features](#features)
-- [How to contribute](#how_to_contribute)
+- [How to contribute](#how-to-contribute)
 - [Tests](#tests)
 
 ## Installation
@@ -49,8 +51,8 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Questions
 
-Github username: 
-Email: 
+Github username: jcjohncarter3
+Email: jcjohncarter3@gmail.com
 
 
 ## Features

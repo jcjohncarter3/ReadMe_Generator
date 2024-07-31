@@ -25,9 +25,10 @@ const questions = [
         name: "description",
         message: "Description",
     },
-    {   type: "input",
-        name: "description",
-        message: "Description",
+    {   type: "checkbox",
+        name: "license",
+        message: "Choose a project license",
+        choices: ["MIT", "Apache2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"]
     },
 ];
 
